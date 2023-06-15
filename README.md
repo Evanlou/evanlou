@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a city planning and data science student who work in Urban Informatics study field. I have alreadly got a architecture bachelar from Tsinghua universisty, which indicates that I am also a designer who interests in the relationship between **complex social network and our physical enviroument**.
+
+I am now work as a research accistance of Future Urban AI Lab leaded by [Prof.Yuan Lai](http://www.mit.edu/~yuanlai/).
+
 <!--
 **Evanlou/evanlou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
