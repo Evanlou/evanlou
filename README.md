@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Yifeng Liu
 
-Understood. Here's a more concise and simplified version of your introduction:
+I am a city planning and data science student, with a focus on Urban Informatics. Having graduated in Architecture from Tsinghua University, I bring design thinking into my studies of social networks and their relationship with our physical surroundings. 
 
-I am a city planning and data science student, with a focus on Urban Informatics. Having graduated in Architecture from Tsinghua University, I bring design thinking into my studies of social networks and their relationship with our physical surroundings. Currently, I work as a research assistant at the Future Urban AI Lab, where I explore artificial intelligence applications in urban planning under [Prof.Yuan Lai](http://www.mit.edu/~yuanlai/)'s mentorship. 
+Currently, I work as a research assistant at the Future Urban AI Lab, where I explore artificial intelligence applications in urban planning under [Prof.Yuan Lai](http://www.mit.edu/~yuanlai/)'s mentorship. 
 
 <!--
 **Evanlou/evanlou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
