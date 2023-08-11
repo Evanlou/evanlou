@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yifeng Liu
+### Hi there 👋 This is Yifeng Liu
 
 I am a city planning and data science student, with a focus on Urban Informatics. Having graduated in Architecture from Tsinghua University, I bring design thinking into my studies of social networks and their relationship with our physical surroundings. 
 
