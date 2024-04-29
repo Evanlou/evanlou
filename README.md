@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Yifeng Liu
 
-I am a city planning and data science student, with a focus on Urban Informatics. Having graduated in Architecture from Tsinghua University, I bring design thinking into my studies of social networks and their relationship with our physical surroundings. 
+I am a city planning and conputer science student at MIT, with a focus on optimization and machinelearning in urabn/transportation field. Having graduated in Architecture from Tsinghua University, I bring design thinking into my studies of social networks and their relationship with our physical surroundings. 
 
 Currently, I work as a research assistant at the Future Urban AI Lab, where I explore artificial intelligence applications in urban planning. And I will enroll in DUSP as a MCP student this September.
 
