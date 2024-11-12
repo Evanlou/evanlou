@@ -1,7 +1,9 @@
 ### Hi there 👋 This is Yifeng Liu
 
-I am a city planning and conputer science student at MIT, with a focus on optimization and machinelearning in urabn/transportation field. Having graduated in Architecture from Tsinghua University, I bring design thinking into my studies of social networks and their relationship with our physical surroundings. 
 <!--
+
+I am a city planning and conputer science student at MIT, with a focus on optimization and machinelearning in urabn/transportation field. Having graduated in Architecture from Tsinghua University, I bring design thinking into my studies of social networks and their relationship with our physical surroundings. 
+
 **yifongliu/yifongliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
